@@ -1,2 +1,2 @@
-# Mobile-Forencis-Assignment
+# Mobile-Forensics-Assignment
 Collected Assignment for Mobile Forensics
